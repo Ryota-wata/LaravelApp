@@ -1,0 +1,5 @@
+# /tmpディレクトリ以下のファイルを無視
+/tmp/*
+
+# /tmp/not_ignoreだけは無視しない
+!/tmp/not_ignore
